@@ -673,6 +673,15 @@ NeurIPS 2024
 
 https://github.com/linyizun2024/mSSRM
 
+
+17. How Does Critical Batch Size Scale in Pre-training?
+
+https://arxiv.org/abs/2410.21676
+
+ICLR 2025
+
+https://github.com/hlzhang109/critical-batch-size
+
 ---
 
 ## [Etc]
