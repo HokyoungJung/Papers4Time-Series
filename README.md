@@ -788,17 +788,17 @@
   <summary>papers</summary>
   
   
-  Retrograde Enhancement of Human Memory with Alcohol
+  1. Retrograde Enhancement of Human Memory with Alcohol
   
   Psychopharmacology 1980
   
   
-  The Alcohol Facilitation Effect on Memory: A Dose-Response Study 
+  2. The Alcohol Facilitation Effect on Memory: A Dose-Response Study 
   
   Psychopharmacology 1981
   
   
-  On the rheology of cats
+  3. On the rheology of cats
   
   https://www.rheology.org/sor/Publications/RheoBulletin/RB2014Jul.pdf
   
