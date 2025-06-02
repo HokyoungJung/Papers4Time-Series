@@ -7,11 +7,11 @@
   
   1. PATCHMIXER: A PATCH-MIXING ARCHITECTURE FOR LONG-TERM TIME SERIES FORECASTING
   
-    https://arxiv.org/abs/2310.00655
-    
-    arxiv 2023
-    
-    https://github.com/Zeying-Gong/PatchMixer
+  https://arxiv.org/abs/2310.00655
+  
+  arxiv 2023
+  
+  https://github.com/Zeying-Gong/PatchMixer
   
   
   2. Mixture-of-Linear-Experts for Long-term Time Series Forecasting
