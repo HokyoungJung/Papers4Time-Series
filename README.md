@@ -1,6 +1,6 @@
 # Papers4Time-Series
 
-## [Time-Series]
+## Time-Series
 
 
 1. PATCHMIXER: A PATCH-MIXING ARCHITECTURE FOR LONG-TERM TIME SERIES FORECASTING
@@ -472,7 +472,7 @@ AAAI 2025
 
 ---
 
-## [Feature Selection]
+## Feature Selection
 
 
 1. Feature Selection and Feature Learning for High-dimensional Batch Reinforcement Learning: A Survey
@@ -684,7 +684,7 @@ https://github.com/hlzhang109/critical-batch-size
 
 ---
 
-## [Etc]
+## Etc.
 
 
 1. ZeRO: Memory Optimizations Toward Training Trillion Parameter Models
@@ -768,7 +768,7 @@ https://github.com/changshun/wisecourse1415/tree/master/Advanced%20Financial%20E
 
 ---
 
-## [Fun Facts]
+## Fun Facts
 
 
 Retrograde Enhancement of Human Memory with Alcohol
