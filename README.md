@@ -1,785 +1,798 @@
 # Papers4Time-Series
 
-## Time-Series
-
-
-1. PATCHMIXER: A PATCH-MIXING ARCHITECTURE FOR LONG-TERM TIME SERIES FORECASTING
-
-https://arxiv.org/abs/2310.00655
-
-arxiv 2023
-
-https://github.com/Zeying-Gong/PatchMixer
-
-
-2. Mixture-of-Linear-Experts for Long-term Time Series Forecasting
-
-https://arxiv.org/abs/2312.06786
-
-AISTATS 2024
-
-https://github.com/RogerNi/MoLE
-
-
-3. FITS: MODELING TIME SERIES WITH 10k PARAMETERS
-
-https://arxiv.org/abs/2307.03756
-
-ICLR 2024 Spotlight
-
-https://github.com/vewoxic/fits
-
-
-4. REVERSIBLE INSTANCE NORMALIZATION FOR
-
-ACCURATE TIME-SERIES FORECASTING AGAINST DISTRIBUTION SHIFT
-
-https://openreview.net/pdf?id=cGDAkQo1C0p
-
-ICLR 2022
-
-https://github.com/ts-kim/RevIN?tab=readme-ov-file
-
-
-5. A SYSTEM FOR MASSIVELY PARALLEL HYPERPARAMETER TUNING
-
-https://arxiv.org/abs/1810.05934
-
-MLSys 2020
-
-https://github.com/liamcli/darts_asha
-
-
-6. High-Dimensional Multivariate Forecasting with Low-Rank Gaussian Copula Processes
-
-https://arxiv.org/abs/1910.03002
-
-NeurIPS 2019
-
-https://github.com/mbohlkeschneider/gluon-ts (gluon-ts github)
-
-
-7. Chronos: Learning the Language of Time Series
-
-https://arxiv.org/abs/2403.07815
-
-TMLR 2024
-
-https://github.com/amazon-science/chronos-forecasting
-
-
-8. A graph neural network-based stock forecasting method utilizing multi-source heterogeneous data fusion
-
-Multimed Tools Appl 2022
-
-
-9. NeuralProphet: Explainable Forecasting at Scale
-
-https://arxiv.org/abs/2111.15397
-
-arxiv 2021
-
-https://github.com/ourownstory/neural_prophet
-
-
-10. ImDiffusion: Imputed Diffusion Models for Multivariate Time Series Anomaly Detection
-
-https://arxiv.org/abs/2307.00754
-
-VLDB 2023
-
-https://github.com/17000cyh/IMDiffusion
-
-
-11. Label-Free Multivariate Time Series AnomalyDetection
-
-https://arxiv.org/abs/2312.11549
-
-TKDE 2024
-
-
-12. MEMTO: Memory-guided Transformer for Multivariate Time Series Anomaly Detection
-
-https://arxiv.org/abs/2312.02530
-
-NeurIPS 2023
-
-https://github.com/gunny97/MEMTO
-
-
-13. ANOMALY TRANSFORMER: TIME SERIES ANOMALY DETECTION WITH ASSOCIATION DISCREPANCY
-
-https://arxiv.org/abs/2110.02642
-
-ICLR 2022
-
-https://github.com/thuml/Anomaly-Transformer
-
-
-14. Latent Diffusion Transformer for Probabilistic Time Series Forecasting
-
-https://ojs.aaai.org/index.php/AAAI/article/view/29085
-
-AAAI 2024
-
-
-15. Predict, Refine, Synthesize: Self-Guiding Diffusion Models for Probabilistic Time Series Forecasting
-
-https://arxiv.org/abs/2307.11494
-
-NeurIPS 2023
-
-https://github.com/amazon-science/unconditional-time-series-diffusion
-
-
-16. Diffusion-based Time Series Imputation and Forecasting with Structured State Space Models
-
-https://arxiv.org/abs/2208.09399
-
-TMLR 2023
-
-https://github.com/AI4HealthUOL/SSSD
-
-
-17. Diffusion Variational Autoencoder for Tackling Stochasticity in Multi-Step Regression Stock Price Prediction
-
-https://arxiv.org/abs/2309.00073
-
-CIKM 2023
-
-https://github.com/koa-fin/dva
-
-
-18. Beyond Trend and Periodicity: Guiding Time Series Forecasting with Textual Cues
-
-https://arxiv.org/abs/2405.13522
-
-arxiv 2024
-
-https://github.com/VEWOXIC/TGTSF
-
-
-19. TIME-LLM: TIME SERIES FORECASTING BY REPROGRAMMING LARGE LANGUAGE MODELS
-
-https://arxiv.org/abs/2310.01728
-
-ICLR 2024
-
-https://github.com/KimMeen/Time-LLM
-
-
-20. TIMEMIXER: DECOMPOSABLE MULTISCALE MIXING FOR TIME SERIES FORECASTING
-
-https://arxiv.org/abs/2405.14616
-
-ICLR 2024
-
-https://github.com/kwuking/TimeMixer
-
-
-21. HDMixer: Hierarchical Dependency with Extendable Patch for Multivariate Time Series Forecasting
-
-https://ojs.aaai.org/index.php/AAAI/article/view/29155
-
-AAAI 2024
-
-https://github.com/hqh0728/HDMixer
-
-
-22. SparseTSF: Modeling Long-term Time Series Forecasting with 1k Parameters
-
-https://arxiv.org/abs/2405.00946
-
-ICML 2024
-
-https://github.com/lss-1138/SparseTSF
-
-
-23. End-to-End Learning of Coherent Probabilistic Forecasts for Hierarchical Time Series
-
-https://proceedings.mlr.press/v139/rangapuram21a/rangapuram21a.pdf
-
-ICML 2021
-
-
-24. tsGT: Stochastic Time Series Modeling With Transformer
-
-https://arxiv.org/abs/2403.05713
-
-arxiv 2024
-
-
-25. A TIME SERIES IS WORTH 64 WORDS: LONG-TERM FORECASTING WITH TRANSFORMERS
-
-https://arxiv.org/abs/2211.14730
-
-ICLR 2023
-
-https://github.com/yuqinie98/PatchTST
-
-
-26. ITRANSFORMER: INVERTED TRANSFORMERS ARE EFFECTIVE FOR TIME SERIES FORECASTING
-
-https://arxiv.org/abs/2310.06625
-
-ICLR 2024
-
-https://github.com/thuml/iTransformer
-
-
-27. MASTER: Market-Guided Stock Transformer for Stock Price Forecasting
-
-https://arxiv.org/abs/2312.15235
-
-AAAI 2024
-
-https://github.com/SJTU-DMTai/MASTER
-
-
-28. MODERNTCN: A MODERN PURE CONVOLUTION STRUCTURE FOR GENERAL TIME SERIES ANALYSIS
-
-https://openreview.net/pdf?id=vpJMJerXHU
-
-ICLR 2024
-
-https://github.com/luodhhh/ModernTCN
-
-
-29. FTMixer: Frequency and Time Domain Representations Fusion for Time Series Forecasting
-
-https://arxiv.org/abs/2405.15256
-
-arxiv 2024
-
-https://github.com/FMLYD/FTMixer
-
-
-30. ConvTimeNet: A Deep Hierarchical Fully Convolutional Model for Multivariate Time Series Analysis
-
-https://arxiv.org/abs/2403.01493
-
-ACM WWW2025
-
-https://github.com/Mingyue-Cheng/ConvTimeNet
-
-
-31. TSMixer: Lightweight MLP-Mixer Model for Multivariate Time Series Forecasting
-
-https://arxiv.org/abs/2306.09364
-
-KDD 2023
-
-https://github.com/ibm-granite/granite-tsfm
-
-
-32. CycleNet: Enhancing Time Series Forecasting through Modeling Periodic Patterns
-
-https://arxiv.org/abs/2409.18479
-
-NeurIPS 2024
-
-https://github.com/ACAT-SCUT/CycleNet
-
-
-33. CMAMBA: CHANNEL CORRELATION ENHANCED STATE SPACE MODELS FOR MULTIVARIATE TIME SERIES FORECASTING
-
-https://arxiv.org/abs/2406.05316
-
-arxiv 2024
-
-https://github.com/zclzcl0223/CMamba
-
-
-34. TimeMachine: A Time Series is Worth 4 Mambas for Long-term Forecasting
-
-https://arxiv.org/abs/2403.09898
-
-ECAI 2024
-
-https://github.com/Atik-Ahamed/TimeMachine
-
-
-35. Is Mamba Effective for Time Series Forecasting?
-
-https://arxiv.org/abs/2403.11144
-
-Neurocomputing 2025
-
-https://github.com/wzhwzhwzh0921/S-D-Mamba
-
-
-36. Are KAN Effective for Identifying and Tracking Concept Drift in Time Series?
-
-https://arxiv.org/abs/2410.10041
-
-NIPSW 2024
-
-
-37. MIXLINEAR: EXTREME LOW RESOURCE MULTIVARIATE TIME SERIES FORECASTING WITH 0.1K PARAMETERS
-
-https://arxiv.org/abs/2410.02081
-
-arxiv 2024
-
-
-38. TimeXer: Empowering Transformers for Time Series Forecasting with Exogenous Variables
-
-https://arxiv.org/abs/2402.19072
-
-NeurIPS 2024
-
-https://github.com/thuml/TimeXer
-
-
-39. TIMEKAN: KAN-BASED FREQUENCY DECOMPOSITION LEARNING ARCHITECTURE FOR LONG-TERM TIME SERIES FORECASTING
-
-https://arxiv.org/abs/2502.06910
-
-ICLR 2025
-
-https://github.com/huangst21/TimeKAN
-
-
-40. FilterNet: Harnessing Frequency Filters for Time Series Forecasting
-
-https://arxiv.org/abs/2411.01623
-
-NeurIPS 2024
-
-https://github.com/aikunyi/FilterNet
-
-
-41. FreqMoE: Enhancing Time Series Forecasting through Frequency Decomposition Mixture of Experts
-
-https://arxiv.org/abs/2501.15125
-
-AISTATS 2025
-
-https://github.com/sunbus100/FreqMoE-main
-
-
-42. From Tables to Time: How TabPFN-v2 Outperforms Specialized Time Series Forecasting Models
-
-https://arxiv.org/abs/2501.02945
-
-NeurIPS 2024
-
-https://github.com/PriorLabs/tabpfn-time-series
-
-
-43. Auto-Regressive Moving Diffusion Models for Time Series Forecasting
-
-https://arxiv.org/abs/2412.09328
-
-AAAI 2025
-
-https://github.com/daxin007/ARMD
-
-
-44. Financial Fine-tuning a Large Time Series Model
-
-https://arxiv.org/abs/2412.09880
-
-arxiv 2024
-
-
-45. ElasTST: Towards Robust Varied-Horizon Forecasting with Elastic Time-Series Transformer
-
-https://arxiv.org/abs/2411.01842
-
-NeurIPS 2024
-
-https://github.com/microsoft/ProbTS/tree/elastst
-
-
-46. Amplifier: Bringing Attention to Neglected Low-Energy Components in Time Series Forecasting
-
-https://arxiv.org/abs/2501.17216
-
-AAAI 2025
-
-https://github.com/aikunyi/amplifier
-
-
-47. Stock Selection via Spatiotemporal Hypergraph Attention Network: A Learning to Rank Approach
-
-https://ojs.aaai.org/index.php/AAAI/article/view/16127
-
-AAAI 2021
-
-https://github.com/midas-research/sthan-sr-aaai
-
-
-48. Mamba Meets Financial Markets: A Graph-Mamba Approach for Stock Price Prediction
-
-https://arxiv.org/abs/2410.03707
-
-ICASSP 2025
-
-https://github.com/Ali-Meh619/SAMBA
-
-
-49. Temporal Query Network for Efficient Multivariate Time Series Forecasting
-
-https://arxiv.org/abs/2505.12917
-
-ICML 2025
-
-https://github.com/ACAT-SCUT/TQNet
-
-
-50. CASA: CNN Autoencoder-based Score Attention for Efficient Multivariate Long-term Time-series Forecasting
-
-https://arxiv.org/abs/2505.02011
-
-IJCAI 2025
-
-https://github.com/lmh9507/CASA
-
-
-51. FilterTS: Comprehensive Frequency Filtering for Multivariate Time Series Forecasting
-
-https://arxiv.org/abs/2505.04158
-
-AAAI 2025
-
-https://github.com/wyl010607/FilterTS
-
-
-52. Retrieval Augmented Time Series Forecasting
-
-https://arxiv.org/abs/2411.08249
-
-ICML 2025
-
-https://github.com/archon159/RAFT
-
-
-53. Non-stationary Diffusion For Probabilistic Time Series Forecasting
-
-https://arxiv.org/abs/2505.04278
-
-ICML 2025
-
-https://github.com/wwy155/NsDiff
-
-
-54. Affirm: Interactive Mamba with Adaptive Fourier Filters for Long-term Time Series Forecasting
-
-https://ojs.aaai.org/index.php/AAAI/article/view/35463
-
-AAAI 2025
+<details>
+  <summary>## Time-Series</summary>
+  
+  
+  1. PATCHMIXER: A PATCH-MIXING ARCHITECTURE FOR LONG-TERM TIME SERIES FORECASTING
+  
+  https://arxiv.org/abs/2310.00655
+  
+  arxiv 2023
+  
+  https://github.com/Zeying-Gong/PatchMixer
+  
+  
+  2. Mixture-of-Linear-Experts for Long-term Time Series Forecasting
+  
+  https://arxiv.org/abs/2312.06786
+  
+  AISTATS 2024
+  
+  https://github.com/RogerNi/MoLE
+  
+  
+  3. FITS: MODELING TIME SERIES WITH 10k PARAMETERS
+  
+  https://arxiv.org/abs/2307.03756
+  
+  ICLR 2024 Spotlight
+  
+  https://github.com/vewoxic/fits
+  
+  
+  4. REVERSIBLE INSTANCE NORMALIZATION FOR
+  
+  ACCURATE TIME-SERIES FORECASTING AGAINST DISTRIBUTION SHIFT
+  
+  https://openreview.net/pdf?id=cGDAkQo1C0p
+  
+  ICLR 2022
+  
+  https://github.com/ts-kim/RevIN?tab=readme-ov-file
+  
+  
+  5. A SYSTEM FOR MASSIVELY PARALLEL HYPERPARAMETER TUNING
+  
+  https://arxiv.org/abs/1810.05934
+  
+  MLSys 2020
+  
+  https://github.com/liamcli/darts_asha
+  
+  
+  6. High-Dimensional Multivariate Forecasting with Low-Rank Gaussian Copula Processes
+  
+  https://arxiv.org/abs/1910.03002
+  
+  NeurIPS 2019
+  
+  https://github.com/mbohlkeschneider/gluon-ts (gluon-ts github)
+  
+  
+  7. Chronos: Learning the Language of Time Series
+  
+  https://arxiv.org/abs/2403.07815
+  
+  TMLR 2024
+  
+  https://github.com/amazon-science/chronos-forecasting
+  
+  
+  8. A graph neural network-based stock forecasting method utilizing multi-source heterogeneous data fusion
+  
+  Multimed Tools Appl 2022
+  
+  
+  9. NeuralProphet: Explainable Forecasting at Scale
+  
+  https://arxiv.org/abs/2111.15397
+  
+  arxiv 2021
+  
+  https://github.com/ourownstory/neural_prophet
+  
+  
+  10. ImDiffusion: Imputed Diffusion Models for Multivariate Time Series Anomaly Detection
+  
+  https://arxiv.org/abs/2307.00754
+  
+  VLDB 2023
+  
+  https://github.com/17000cyh/IMDiffusion
+  
+  
+  11. Label-Free Multivariate Time Series AnomalyDetection
+  
+  https://arxiv.org/abs/2312.11549
+  
+  TKDE 2024
+  
+  
+  12. MEMTO: Memory-guided Transformer for Multivariate Time Series Anomaly Detection
+  
+  https://arxiv.org/abs/2312.02530
+  
+  NeurIPS 2023
+  
+  https://github.com/gunny97/MEMTO
+  
+  
+  13. ANOMALY TRANSFORMER: TIME SERIES ANOMALY DETECTION WITH ASSOCIATION DISCREPANCY
+  
+  https://arxiv.org/abs/2110.02642
+  
+  ICLR 2022
+  
+  https://github.com/thuml/Anomaly-Transformer
+  
+  
+  14. Latent Diffusion Transformer for Probabilistic Time Series Forecasting
+  
+  https://ojs.aaai.org/index.php/AAAI/article/view/29085
+  
+  AAAI 2024
+  
+  
+  15. Predict, Refine, Synthesize: Self-Guiding Diffusion Models for Probabilistic Time Series Forecasting
+  
+  https://arxiv.org/abs/2307.11494
+  
+  NeurIPS 2023
+  
+  https://github.com/amazon-science/unconditional-time-series-diffusion
+  
+  
+  16. Diffusion-based Time Series Imputation and Forecasting with Structured State Space Models
+  
+  https://arxiv.org/abs/2208.09399
+  
+  TMLR 2023
+  
+  https://github.com/AI4HealthUOL/SSSD
+  
+  
+  17. Diffusion Variational Autoencoder for Tackling Stochasticity in Multi-Step Regression Stock Price Prediction
+  
+  https://arxiv.org/abs/2309.00073
+  
+  CIKM 2023
+  
+  https://github.com/koa-fin/dva
+  
+  
+  18. Beyond Trend and Periodicity: Guiding Time Series Forecasting with Textual Cues
+  
+  https://arxiv.org/abs/2405.13522
+  
+  arxiv 2024
+  
+  https://github.com/VEWOXIC/TGTSF
+  
+  
+  19. TIME-LLM: TIME SERIES FORECASTING BY REPROGRAMMING LARGE LANGUAGE MODELS
+  
+  https://arxiv.org/abs/2310.01728
+  
+  ICLR 2024
+  
+  https://github.com/KimMeen/Time-LLM
+  
+  
+  20. TIMEMIXER: DECOMPOSABLE MULTISCALE MIXING FOR TIME SERIES FORECASTING
+  
+  https://arxiv.org/abs/2405.14616
+  
+  ICLR 2024
+  
+  https://github.com/kwuking/TimeMixer
+  
+  
+  21. HDMixer: Hierarchical Dependency with Extendable Patch for Multivariate Time Series Forecasting
+  
+  https://ojs.aaai.org/index.php/AAAI/article/view/29155
+  
+  AAAI 2024
+  
+  https://github.com/hqh0728/HDMixer
+  
+  
+  22. SparseTSF: Modeling Long-term Time Series Forecasting with 1k Parameters
+  
+  https://arxiv.org/abs/2405.00946
+  
+  ICML 2024
+  
+  https://github.com/lss-1138/SparseTSF
+  
+  
+  23. End-to-End Learning of Coherent Probabilistic Forecasts for Hierarchical Time Series
+  
+  https://proceedings.mlr.press/v139/rangapuram21a/rangapuram21a.pdf
+  
+  ICML 2021
+  
+  
+  24. tsGT: Stochastic Time Series Modeling With Transformer
+  
+  https://arxiv.org/abs/2403.05713
+  
+  arxiv 2024
+  
+  
+  25. A TIME SERIES IS WORTH 64 WORDS: LONG-TERM FORECASTING WITH TRANSFORMERS
+  
+  https://arxiv.org/abs/2211.14730
+  
+  ICLR 2023
+  
+  https://github.com/yuqinie98/PatchTST
+  
+  
+  26. ITRANSFORMER: INVERTED TRANSFORMERS ARE EFFECTIVE FOR TIME SERIES FORECASTING
+  
+  https://arxiv.org/abs/2310.06625
+  
+  ICLR 2024
+  
+  https://github.com/thuml/iTransformer
+  
+  
+  27. MASTER: Market-Guided Stock Transformer for Stock Price Forecasting
+  
+  https://arxiv.org/abs/2312.15235
+  
+  AAAI 2024
+  
+  https://github.com/SJTU-DMTai/MASTER
+  
+  
+  28. MODERNTCN: A MODERN PURE CONVOLUTION STRUCTURE FOR GENERAL TIME SERIES ANALYSIS
+  
+  https://openreview.net/pdf?id=vpJMJerXHU
+  
+  ICLR 2024
+  
+  https://github.com/luodhhh/ModernTCN
+  
+  
+  29. FTMixer: Frequency and Time Domain Representations Fusion for Time Series Forecasting
+  
+  https://arxiv.org/abs/2405.15256
+  
+  arxiv 2024
+  
+  https://github.com/FMLYD/FTMixer
+  
+  
+  30. ConvTimeNet: A Deep Hierarchical Fully Convolutional Model for Multivariate Time Series Analysis
+  
+  https://arxiv.org/abs/2403.01493
+  
+  ACM WWW2025
+  
+  https://github.com/Mingyue-Cheng/ConvTimeNet
+  
+  
+  31. TSMixer: Lightweight MLP-Mixer Model for Multivariate Time Series Forecasting
+  
+  https://arxiv.org/abs/2306.09364
+  
+  KDD 2023
+  
+  https://github.com/ibm-granite/granite-tsfm
+  
+  
+  32. CycleNet: Enhancing Time Series Forecasting through Modeling Periodic Patterns
+  
+  https://arxiv.org/abs/2409.18479
+  
+  NeurIPS 2024
+  
+  https://github.com/ACAT-SCUT/CycleNet
+  
+  
+  33. CMAMBA: CHANNEL CORRELATION ENHANCED STATE SPACE MODELS FOR MULTIVARIATE TIME SERIES FORECASTING
+  
+  https://arxiv.org/abs/2406.05316
+  
+  arxiv 2024
+  
+  https://github.com/zclzcl0223/CMamba
+  
+  
+  34. TimeMachine: A Time Series is Worth 4 Mambas for Long-term Forecasting
+  
+  https://arxiv.org/abs/2403.09898
+  
+  ECAI 2024
+  
+  https://github.com/Atik-Ahamed/TimeMachine
+  
+  
+  35. Is Mamba Effective for Time Series Forecasting?
+  
+  https://arxiv.org/abs/2403.11144
+  
+  Neurocomputing 2025
+  
+  https://github.com/wzhwzhwzh0921/S-D-Mamba
+  
+  
+  36. Are KAN Effective for Identifying and Tracking Concept Drift in Time Series?
+  
+  https://arxiv.org/abs/2410.10041
+  
+  NIPSW 2024
+  
+  
+  37. MIXLINEAR: EXTREME LOW RESOURCE MULTIVARIATE TIME SERIES FORECASTING WITH 0.1K PARAMETERS
+  
+  https://arxiv.org/abs/2410.02081
+  
+  arxiv 2024
+  
+  
+  38. TimeXer: Empowering Transformers for Time Series Forecasting with Exogenous Variables
+  
+  https://arxiv.org/abs/2402.19072
+  
+  NeurIPS 2024
+  
+  https://github.com/thuml/TimeXer
+  
+  
+  39. TIMEKAN: KAN-BASED FREQUENCY DECOMPOSITION LEARNING ARCHITECTURE FOR LONG-TERM TIME SERIES FORECASTING
+  
+  https://arxiv.org/abs/2502.06910
+  
+  ICLR 2025
+  
+  https://github.com/huangst21/TimeKAN
+  
+  
+  40. FilterNet: Harnessing Frequency Filters for Time Series Forecasting
+  
+  https://arxiv.org/abs/2411.01623
+  
+  NeurIPS 2024
+  
+  https://github.com/aikunyi/FilterNet
+  
+  
+  41. FreqMoE: Enhancing Time Series Forecasting through Frequency Decomposition Mixture of Experts
+  
+  https://arxiv.org/abs/2501.15125
+  
+  AISTATS 2025
+  
+  https://github.com/sunbus100/FreqMoE-main
+  
+  
+  42. From Tables to Time: How TabPFN-v2 Outperforms Specialized Time Series Forecasting Models
+  
+  https://arxiv.org/abs/2501.02945
+  
+  NeurIPS 2024
+  
+  https://github.com/PriorLabs/tabpfn-time-series
+  
+  
+  43. Auto-Regressive Moving Diffusion Models for Time Series Forecasting
+  
+  https://arxiv.org/abs/2412.09328
+  
+  AAAI 2025
+  
+  https://github.com/daxin007/ARMD
+  
+  
+  44. Financial Fine-tuning a Large Time Series Model
+  
+  https://arxiv.org/abs/2412.09880
+  
+  arxiv 2024
+  
+  
+  45. ElasTST: Towards Robust Varied-Horizon Forecasting with Elastic Time-Series Transformer
+  
+  https://arxiv.org/abs/2411.01842
+  
+  NeurIPS 2024
+  
+  https://github.com/microsoft/ProbTS/tree/elastst
+  
+  
+  46. Amplifier: Bringing Attention to Neglected Low-Energy Components in Time Series Forecasting
+  
+  https://arxiv.org/abs/2501.17216
+  
+  AAAI 2025
+  
+  https://github.com/aikunyi/amplifier
+  
+  
+  47. Stock Selection via Spatiotemporal Hypergraph Attention Network: A Learning to Rank Approach
+  
+  https://ojs.aaai.org/index.php/AAAI/article/view/16127
+  
+  AAAI 2021
+  
+  https://github.com/midas-research/sthan-sr-aaai
+  
+  
+  48. Mamba Meets Financial Markets: A Graph-Mamba Approach for Stock Price Prediction
+  
+  https://arxiv.org/abs/2410.03707
+  
+  ICASSP 2025
+  
+  https://github.com/Ali-Meh619/SAMBA
+  
+  
+  49. Temporal Query Network for Efficient Multivariate Time Series Forecasting
+  
+  https://arxiv.org/abs/2505.12917
+  
+  ICML 2025
+  
+  https://github.com/ACAT-SCUT/TQNet
+  
+  
+  50. CASA: CNN Autoencoder-based Score Attention for Efficient Multivariate Long-term Time-series Forecasting
+  
+  https://arxiv.org/abs/2505.02011
+  
+  IJCAI 2025
+  
+  https://github.com/lmh9507/CASA
+  
+  
+  51. FilterTS: Comprehensive Frequency Filtering for Multivariate Time Series Forecasting
+  
+  https://arxiv.org/abs/2505.04158
+  
+  AAAI 2025
+  
+  https://github.com/wyl010607/FilterTS
+  
+  
+  52. Retrieval Augmented Time Series Forecasting
+  
+  https://arxiv.org/abs/2411.08249
+  
+  ICML 2025
+  
+  https://github.com/archon159/RAFT
+  
+  
+  53. Non-stationary Diffusion For Probabilistic Time Series Forecasting
+  
+  https://arxiv.org/abs/2505.04278
+  
+  ICML 2025
+  
+  https://github.com/wwy155/NsDiff
+  
+  
+  54. Affirm: Interactive Mamba with Adaptive Fourier Filters for Long-term Time Series Forecasting
+  
+  https://ojs.aaai.org/index.php/AAAI/article/view/35463
+  
+  AAAI 2025
+
+</details>
 
 ---
 
-## Feature Selection
-
-
-1. Feature Selection and Feature Learning for High-dimensional Batch Reinforcement Learning: A Survey
-
-https://link.springer.com/article/10.1007/s11633-015-0893-y
-
-IJAC 2015
-
-
-2. A Contrast Based Feature Selection Algorithm for High-dimensional Data set in Machine Learning
-
-https://arxiv.org/pdf/2401.07482
-
-arxiv 2024
-
-
-3. Feature importance feedback with Deep Q process in ensemble‑based metaheuristic feature selection algorithms
-
-https://www.nature.com/articles/s41598-024-53141-w
-
-Sci Rep 2024
-
-
-4. Learning Sparse SVM for Feature Selection on Very High Dimensional Datasets
-
-https://icml.cc/Conferences/2010/papers/227.pdf
-
-ICML 2025
-
-
-5. Using reinforcement learning to find an optimal set of features
-
-https://www.sciencedirect.com/science/article/pii/S0898122113004495
-
-Computers & Mathematics with Applications 2013
-
-
-6. FEATURE SELECTION USING REINFORCEMENT LEARNING
-
-https://arxiv.org/abs/2101.09460
-
-arxiv 2021
-
-
-7. ID‑RDRL: a deep reinforcement learning‑based feature selection intrusion detection model
-
-https://www.nature.com/articles/s41598-022-19366-3
-
-Sci Rep 2022
-
-
-8. Feature Selection Method Using Multi-Agent Reinforcement Learning Based on Guide Agents
-
-https://www.mdpi.com/1424-8220/23/1/98
-
-Sensors 2023
-
-
-9. MEL: Efficient Multi-Task Evolutionary Learning for High-Dimensional Feature Selection
-
-https://arxiv.org/abs/2402.08982
-
-TKDE 2024
-
-https://github.com/wangxb96/MEL
+<details>
+  <summary>## Feature Selection</summary>
+  
+  
+  1. Feature Selection and Feature Learning for High-dimensional Batch Reinforcement Learning: A Survey
+  
+  https://link.springer.com/article/10.1007/s11633-015-0893-y
+  
+  IJAC 2015
+  
+  
+  2. A Contrast Based Feature Selection Algorithm for High-dimensional Data set in Machine Learning
+  
+  https://arxiv.org/pdf/2401.07482
+  
+  arxiv 2024
+  
+  
+  3. Feature importance feedback with Deep Q process in ensemble‑based metaheuristic feature selection algorithms
+  
+  https://www.nature.com/articles/s41598-024-53141-w
+  
+  Sci Rep 2024
+  
+  
+  4. Learning Sparse SVM for Feature Selection on Very High Dimensional Datasets
+  
+  https://icml.cc/Conferences/2010/papers/227.pdf
+  
+  ICML 2025
+  
+  
+  5. Using reinforcement learning to find an optimal set of features
+  
+  https://www.sciencedirect.com/science/article/pii/S0898122113004495
+  
+  Computers & Mathematics with Applications 2013
+  
+  
+  6. FEATURE SELECTION USING REINFORCEMENT LEARNING
+  
+  https://arxiv.org/abs/2101.09460
+  
+  arxiv 2021
+  
+  
+  7. ID‑RDRL: a deep reinforcement learning‑based feature selection intrusion detection model
+  
+  https://www.nature.com/articles/s41598-022-19366-3
+  
+  Sci Rep 2022
+  
+  
+  8. Feature Selection Method Using Multi-Agent Reinforcement Learning Based on Guide Agents
+  
+  https://www.mdpi.com/1424-8220/23/1/98
+  
+  Sensors 2023
+  
+  
+  9. MEL: Efficient Multi-Task Evolutionary Learning for High-Dimensional Feature Selection
+  
+  https://arxiv.org/abs/2402.08982
+  
+  TKDE 2024
+  
+  https://github.com/wangxb96/MEL
+  
+  ---
+  
+  ## [Non-Time-Series (Just my interest)]
+  
+  
+  1. CONTINUOUS CONTROL WITH DEEP REINFORCEMENT LEARNING
+  
+  https://arxiv.org/abs/1509.02971
+  
+  ICLR 2016
+  
+  
+  2. Deep Reinforcement Learning with Double Q-learning
+  
+  https://arxiv.org/abs/1509.06461
+  
+  AAAI 2016
+  
+  
+  3. Multi-Agent Reinforcement Learning: A Selective Overview of Theories and Algorithms
+  
+  https://arxiv.org/abs/1911.10635
+  
+  Handbook of Reinforcement Learning and Control 2021
+  
+  
+  4. Self-Supervised Neuron Segmentation with Multi-Agent Reinforcement Learning
+  
+  https://arxiv.org/abs/2310.04148
+  
+  IJCAI 2023
+  
+  https://github.com/ydchen0806/dbMiM
+  
+  
+  5. Hierarchical Multi-Agent Reinforcement Learning for Air Combat Maneuvering
+  
+  https://arxiv.org/abs/2309.11247
+  
+  ICMLA 2023
+  
+  https://github.com/IDSIA/hhmarl_2D
+  
+  
+  6. MAXIMUM ENTROPY HETEROGENEOUS-AGENT REINFORCEMENT LEARNING
+  
+  https://arxiv.org/abs/2306.10715
+  
+  ICLR 2024
+  
+  https://github.com/pku-marl/harl?tab=readme-ov-file
+  
+  
+  7. MambaAD: Exploring State Space Models for Multi-class Unsupervised Anomaly Detection
+  
+  https://arxiv.org/abs/2404.06564
+  
+  NeurIPS 2024
+  
+  https://github.com/lewandofskee/MambaAD
+  
+  
+  8. Deep reinforcement learning for data-efcient weakly supervised business process anomaly detection
+  
+  https://journalofbigdata.springeropen.com/articles/10.1186/s40537-023-00708-5
+  
+  J Big Data 2023
+  
+  
+  9. UniRepLKNet: A Universal Perception Large-Kernel ConvNet for Audio, Video, Point Cloud, Time-Series and Image Recognition
+  
+  https://arxiv.org/abs/2311.15599
+  
+  CVPR 2024
+  
+  https://github.com/AILab-CVC/UniRepLKNet
+  
+  
+  10. DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning
+  
+  https://arxiv.org/abs/2501.12948
+  
+  arxiv 2025
+  
+  https://github.com/deepseek-ai/DeepSeek-R1
+  
+  
+  11. Causal Decision Transformer for Recommender Systems via Offline Reinforcement Learning
+  
+  https://arxiv.org/abs/2304.07920
+  
+  arxiv 2023
+  
+  
+  12. Contrastive State Augmentations for Reinforcement Learning-Based Recommender Systems
+  
+  https://arxiv.org/abs/2305.11081
+  
+  SIGIR 2023
+  
+  https://github.com/hn-rs/csa
+  
+  
+  13. Advancing Re-Ranking with Multimodal Fusion and Target-Oriented Auxiliary Tasks in E-Commerce Search
+  
+  https://arxiv.org/abs/2408.05751
+  
+  CIKM 2024
+  
+  
+  14. Controllable Multi-Objective Re-ranking with Policy Hypernetworks
+  
+  https://arxiv.org/abs/2306.05118
+  
+  KDD 2023
+  
+  https://github.com/lyingCS/Controllable-Multi-Objective-Reranking
+  
+  
+  15. ROIDICE: Offline Return on Investment Maximization for Efficient Decision Making
+  
+  https://proceedings.neurips.cc/paper_files/paper/2024/file/178022c409938a9d634b88ce924c4b14-Paper-Conference.pdf
+  
+  NeurIPS 2024
+  
+  
+  16. A Globally Optimal Portfolio for m-Sparse Sharpe Ratio Maximization
+  
+  https://arxiv.org/abs/2410.21100
+  
+  NeurIPS 2024
+  
+  https://github.com/linyizun2024/mSSRM
+  
+  
+  17. How Does Critical Batch Size Scale in Pre-training?
+  
+  https://arxiv.org/abs/2410.21676
+  
+  ICLR 2025
+  
+  https://github.com/hlzhang109/critical-batch-size
+</details>
 
 ---
 
-## [Non-Time-Series (Just my interest)]
-
-
-1. CONTINUOUS CONTROL WITH DEEP REINFORCEMENT LEARNING
-
-https://arxiv.org/abs/1509.02971
-
-ICLR 2016
-
-
-2. Deep Reinforcement Learning with Double Q-learning
-
-https://arxiv.org/abs/1509.06461
-
-AAAI 2016
-
-
-3. Multi-Agent Reinforcement Learning: A Selective Overview of Theories and Algorithms
-
-https://arxiv.org/abs/1911.10635
-
-Handbook of Reinforcement Learning and Control 2021
-
-
-4. Self-Supervised Neuron Segmentation with Multi-Agent Reinforcement Learning
-
-https://arxiv.org/abs/2310.04148
-
-IJCAI 2023
-
-https://github.com/ydchen0806/dbMiM
-
-
-5. Hierarchical Multi-Agent Reinforcement Learning for Air Combat Maneuvering
-
-https://arxiv.org/abs/2309.11247
-
-ICMLA 2023
-
-https://github.com/IDSIA/hhmarl_2D
-
-
-6. MAXIMUM ENTROPY HETEROGENEOUS-AGENT REINFORCEMENT LEARNING
-
-https://arxiv.org/abs/2306.10715
-
-ICLR 2024
-
-https://github.com/pku-marl/harl?tab=readme-ov-file
-
-
-7. MambaAD: Exploring State Space Models for Multi-class Unsupervised Anomaly Detection
-
-https://arxiv.org/abs/2404.06564
-
-NeurIPS 2024
-
-https://github.com/lewandofskee/MambaAD
-
-
-8. Deep reinforcement learning for data-efcient weakly supervised business process anomaly detection
-
-https://journalofbigdata.springeropen.com/articles/10.1186/s40537-023-00708-5
-
-J Big Data 2023
-
-
-9. UniRepLKNet: A Universal Perception Large-Kernel ConvNet for Audio, Video, Point Cloud, Time-Series and Image Recognition
-
-https://arxiv.org/abs/2311.15599
-
-CVPR 2024
-
-https://github.com/AILab-CVC/UniRepLKNet
-
-
-10. DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning
-
-https://arxiv.org/abs/2501.12948
-
-arxiv 2025
-
-https://github.com/deepseek-ai/DeepSeek-R1
-
-
-11. Causal Decision Transformer for Recommender Systems via Offline Reinforcement Learning
-
-https://arxiv.org/abs/2304.07920
-
-arxiv 2023
-
-
-12. Contrastive State Augmentations for Reinforcement Learning-Based Recommender Systems
-
-https://arxiv.org/abs/2305.11081
-
-SIGIR 2023
-
-https://github.com/hn-rs/csa
-
-
-13. Advancing Re-Ranking with Multimodal Fusion and Target-Oriented Auxiliary Tasks in E-Commerce Search
-
-https://arxiv.org/abs/2408.05751
-
-CIKM 2024
-
-
-14. Controllable Multi-Objective Re-ranking with Policy Hypernetworks
-
-https://arxiv.org/abs/2306.05118
-
-KDD 2023
-
-https://github.com/lyingCS/Controllable-Multi-Objective-Reranking
-
-
-15. ROIDICE: Offline Return on Investment Maximization for Efficient Decision Making
-
-https://proceedings.neurips.cc/paper_files/paper/2024/file/178022c409938a9d634b88ce924c4b14-Paper-Conference.pdf
-
-NeurIPS 2024
-
-
-16. A Globally Optimal Portfolio for m-Sparse Sharpe Ratio Maximization
-
-https://arxiv.org/abs/2410.21100
-
-NeurIPS 2024
-
-https://github.com/linyizun2024/mSSRM
-
-
-17. How Does Critical Batch Size Scale in Pre-training?
-
-https://arxiv.org/abs/2410.21676
-
-ICLR 2025
-
-https://github.com/hlzhang109/critical-batch-size
+<details>
+  <summary>## Etc.</summary>
+
+
+  1. ZeRO: Memory Optimizations Toward Training Trillion Parameter Models
+  
+  https://arxiv.org/abs/1910.02054
+  
+  arxiv 2019
+  
+  https://github.com/deepspeedai/DeepSpeed
+  
+  
+  2. Game-Theoretic Multiagent Reinforcement Learning
+  
+  https://arxiv.org/abs/2011.00583
+  
+  arxiv 2020
+  
+  
+  3. TSPP: A Unified Benchmarking Tool for Time-series Forecasting
+  
+  https://arxiv.org/abs/2312.17100
+  
+  arxiv 2023
+  
+  https://github.com/NVIDIA/DeepLearningExamples/tree/master/Tools/PyTorch/TimeSeriesPredictionPlatform
+  
+  
+  4. Diffusion Models for Time Series Applications: A Survey
+  
+  https://arxiv.org/abs/2305.00624
+  
+  arxiv 2023
+  
+  
+  5. BenchMARL: Benchmarking Multi-Agent Reinforcement Learning
+  
+  https://arxiv.org/abs/2312.01472
+  
+  JMLR 2024
+  
+  https://github.com/facebookresearch/BenchMARL
+  
+  
+  6. A Survey on Diffusion Models for Time Series and Spatio-Temporal Data
+  
+  https://arxiv.org/abs/2404.18886
+  
+  arxiv 2024
+  
+  https://github.com/yyysjz1997/Awesome-TimeSeries-SpatioTemporal-Diffusion-Model
+  
+  
+  7. Pearl: A Production-Ready Reinforcement Learning Agent
+  
+  https://arxiv.org/abs/2312.03814
+  
+  JMLR 2025
+  
+  https://github.com/facebookresearch/Pearl
+  
+  
+  8. Algebra, Topology, Differential Calculus, and Optimization Theory for Computer Science and Machine Learning
+  
+  https://www.cis.upenn.edu/~jean/math-deep.pdf
+  
+  https://github.com/akhauriyash/MathForCS_ML?tab=readme-ov-file
+  
+  
+  9. GEOMETRY, TOPOLOGY AND PHYSICS
+  
+  http://www.stat.ucla.edu/~ywu/GTP.pdf
+  
+  
+  10. Stochastic Calculus for Finance I & II
+  
+  https://cms.dm.uba.ar/academico/materias/2docuat2016/analisis_cuantitativo_en_finanzas/Steve_Shreve_Stochastic_Calculus_for_Finance_I.pdf
+  
+  https://cms.dm.uba.ar/academico/materias/2docuat2016/analisis_cuantitativo_en_finanzas/Steve_ShreveStochastic_Calculus_for_Finance_II.pdf
+  
+  https://github.com/changshun/wisecourse1415/tree/master/Advanced%20Financial%20Economics/Required%20textbook/Stochastic%20Calculus%20for%20Finance%20I%26II
+
+</details>
 
 ---
 
-## Etc.
-
-
-1. ZeRO: Memory Optimizations Toward Training Trillion Parameter Models
-
-https://arxiv.org/abs/1910.02054
-
-arxiv 2019
-
-https://github.com/deepspeedai/DeepSpeed
-
-
-2. Game-Theoretic Multiagent Reinforcement Learning
-
-https://arxiv.org/abs/2011.00583
-
-arxiv 2020
-
-
-3. TSPP: A Unified Benchmarking Tool for Time-series Forecasting
-
-https://arxiv.org/abs/2312.17100
-
-arxiv 2023
-
-https://github.com/NVIDIA/DeepLearningExamples/tree/master/Tools/PyTorch/TimeSeriesPredictionPlatform
-
-
-4. Diffusion Models for Time Series Applications: A Survey
-
-https://arxiv.org/abs/2305.00624
-
-arxiv 2023
-
-
-5. BenchMARL: Benchmarking Multi-Agent Reinforcement Learning
-
-https://arxiv.org/abs/2312.01472
-
-JMLR 2024
-
-https://github.com/facebookresearch/BenchMARL
-
-
-6. A Survey on Diffusion Models for Time Series and Spatio-Temporal Data
-
-https://arxiv.org/abs/2404.18886
-
-arxiv 2024
-
-https://github.com/yyysjz1997/Awesome-TimeSeries-SpatioTemporal-Diffusion-Model
-
-
-7. Pearl: A Production-Ready Reinforcement Learning Agent
-
-https://arxiv.org/abs/2312.03814
-
-JMLR 2025
-
-https://github.com/facebookresearch/Pearl
-
-
-8. Algebra, Topology, Differential Calculus, and Optimization Theory for Computer Science and Machine Learning
-
-https://www.cis.upenn.edu/~jean/math-deep.pdf
-
-https://github.com/akhauriyash/MathForCS_ML?tab=readme-ov-file
-
-
-9. GEOMETRY, TOPOLOGY AND PHYSICS
-
-http://www.stat.ucla.edu/~ywu/GTP.pdf
-
-
-10. Stochastic Calculus for Finance I & II
-
-https://cms.dm.uba.ar/academico/materias/2docuat2016/analisis_cuantitativo_en_finanzas/Steve_Shreve_Stochastic_Calculus_for_Finance_I.pdf
-
-https://cms.dm.uba.ar/academico/materias/2docuat2016/analisis_cuantitativo_en_finanzas/Steve_ShreveStochastic_Calculus_for_Finance_II.pdf
-
-https://github.com/changshun/wisecourse1415/tree/master/Advanced%20Financial%20Economics/Required%20textbook/Stochastic%20Calculus%20for%20Finance%20I%26II
-
----
-
-## Fun Facts
-
-
-Retrograde Enhancement of Human Memory with Alcohol
-
-Psychopharmacology 1980
-
-
-The Alcohol Facilitation Effect on Memory: A Dose-Response Study 
-
-Psychopharmacology 1981
-
-On the rheology of cats
-https://www.rheology.org/sor/Publications/RheoBulletin/RB2014Jul.pdf
-Rheology Bulletin 2014
+<details>
+  <summary>## Fun Facts</summary>
+  
+  
+  Retrograde Enhancement of Human Memory with Alcohol
+  
+  Psychopharmacology 1980
+  
+  
+  The Alcohol Facilitation Effect on Memory: A Dose-Response Study 
+  
+  Psychopharmacology 1981
+  
+  
+  On the rheology of cats
+  
+  https://www.rheology.org/sor/Publications/RheoBulletin/RB2014Jul.pdf
+  
+  Rheology Bulletin 2014
+</details>
