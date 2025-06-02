@@ -476,8 +476,9 @@
 
 ---
 
+## Feature Selection
 <details>
-  <summary>## Feature Selection</summary>
+  <summary>papers</summary>
   
   
   1. Feature Selection and Feature Learning for High-dimensional Batch Reinforcement Learning: A Survey
@@ -543,11 +544,15 @@
   TKDE 2024
   
   https://github.com/wangxb96/MEL
+
+</details>
   
   ---
   
-  ## [Non-Time-Series (Just my interest)]
-  
+## Non-Time-Series (Just my interest)
+<details>
+  <summary>papers</summary>
+
   
   1. CONTINUOUS CONTROL WITH DEEP REINFORCEMENT LEARNING
   
@@ -690,8 +695,9 @@
 
 ---
 
+## Etc.
 <details>
-  <summary>## Etc.</summary>
+  <summary>papers</summary>
 
 
   1. ZeRO: Memory Optimizations Toward Training Trillion Parameter Models
@@ -777,8 +783,9 @@
 
 ---
 
+## Fun Facts
 <details>
-  <summary>## Fun Facts</summary>
+  <summary>papers</summary>
   
   
   Retrograde Enhancement of Human Memory with Alcohol
