@@ -1,7 +1,7 @@
 # Papers4Time-Series
 
-##<details>
-  <summary>Time-Series</summary>
+<details>
+  ##<summary>Time-Series</summary>
   
   
   1. PATCHMIXER: A PATCH-MIXING ARCHITECTURE FOR LONG-TERM TIME SERIES FORECASTING
