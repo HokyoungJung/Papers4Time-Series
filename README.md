@@ -268,7 +268,7 @@
 
 55. **TLOB: A Novel Transformer Model with Dual Attention for Price Trend Prediction with Limit Order Book Data**
 
-    * [Paper (arxiv 2025)](https://arxiv.org/abs/2502.15757)
+    * [Paper (arXiv 2025)](https://arxiv.org/abs/2502.15757)
     * [GitHub](https://github.com/LeonardoBerti00/TLOB)
 
 </details>
