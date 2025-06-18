@@ -403,6 +403,16 @@
 
     * [Paper (ICLR 2025)](https://arxiv.org/abs/2410.21676)
     * [GitHub](https://github.com/hlzhang109/critical-batch-size)
+   
+18. **Shampoo: Preconditioned Stochastic Tensor Optimization**
+
+    * [Paper (ICML 2018)](https://arxiv.org/abs/1802.09568)
+
+19. **A Stable Whitening Optimizer for Efficient Neural Network Training**
+
+    * [Paper (arXiv 2025)](https://arxiv.org/abs/2506.07254)
+    * [GitHub](https://github.com/kvfrans/splus)
+
 
 </details>
 
