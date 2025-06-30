@@ -458,18 +458,22 @@
 
 8. **Algebra, Topology, Differential Calculus, and Optimization Theory for Computer Science and Machine Learning**
 
-   * [Paper](https://www.cis.upenn.edu/~jean/math-deep.pdf)
+   * [Book](https://www.cis.upenn.edu/~jean/math-deep.pdf)
    * [GitHub](https://github.com/akhauriyash/MathForCS_ML?tab=readme-ov-file)
 
 9. **Geometry, Topology and Physics**
 
-   * [Paper](http://www.stat.ucla.edu/~ywu/GTP.pdf)
+   * [Book](http://www.stat.ucla.edu/~ywu/GTP.pdf)
 
 10. **Stochastic Calculus for Finance I & II**
 
     * [Volume I](https://cms.dm.uba.ar/academico/materias/2docuat2016/analisis_cuantitativo_en_finanzas/Steve_Shreve_Stochastic_Calculus_for_Finance_I.pdf)
     * [Volume II](https://cms.dm.uba.ar/academico/materias/2docuat2016/analisis_cuantitativo_en_finanzas/Steve_ShreveStochastic_Calculus_for_Finance_II.pdf)
     * [GitHub](https://github.com/changshun/wisecourse1415/tree/master/Advanced%20Financial%20Economics/Required%20textbook/Stochastic%20Calculus%20for%20Finance%20I%26II)
+
+11. **IN ALL LIKELIHOOD Statistical Modelling and Inference Using Likelihood**
+
+    * [Book]
 
 </details>
 
