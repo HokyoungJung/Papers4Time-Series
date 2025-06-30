@@ -471,9 +471,9 @@
     * [Volume II](https://cms.dm.uba.ar/academico/materias/2docuat2016/analisis_cuantitativo_en_finanzas/Steve_ShreveStochastic_Calculus_for_Finance_II.pdf)
     * [GitHub](https://github.com/changshun/wisecourse1415/tree/master/Advanced%20Financial%20Economics/Required%20textbook/Stochastic%20Calculus%20for%20Finance%20I%26II)
 
-11. **IN ALL LIKELIHOOD Statistical Modelling and Inference Using Likelihood**
+11. **In All Likelihood: Statistical Modelling and Inference Using Likelihood**
 
-    * [Book]
+    * Yudi Pawitan
 
 </details>
 
