@@ -271,6 +271,16 @@
     * [Paper (arXiv 2025)](https://arxiv.org/abs/2502.15757)
     * [GitHub](https://github.com/LeonardoBerti00/TLOB)
 
+56. **ITFormer: Bridging Time Series and Natural Language for Multi-Modal QA with Large-Scale Multitask Dataset**
+
+    * [Paper (ICML 2025)](https://arxiv.org/abs/2506.20093)
+    * [Github](https://github.com/Pandalin98/ITFormer-ICML25)
+  
+57. **Integrating LLM-Generated Views into Mean-Variance Optimization Using the Black-Litterman Model**
+
+    * [Paper (ICLR 2025)](https://arxiv.org/abs/2504.14345)
+    * [Github](https://github.com/youngandbin/LLM-MVO-BLM)
+
 </details>
 
 ---
@@ -474,6 +484,13 @@
 11. **In All Likelihood: Statistical Modelling and Inference Using Likelihood**
 
     * Yudi Pawitan
+
+12. **FINDER: FINANCIAL DATASET FOR QUESTION ANSWERING AND EVALUATING RETRIEVAL-AUGMENTED GENERATION**
+
+    * [Paper (ICLR 2025 Workshop Advances in Financial AI)](https://arxiv.org/abs/2504.15800)
+    * In this paper, "Notice for Readers. We’ve decided to use this dataset for an official evaluation in collaboration
+with our partners, and plan to release it publicly at a later time. If you need access to the dataset in
+the meantime, please feel free to contact us at LinqAlpha (support@linqalpha.com)."
 
 </details>
 
