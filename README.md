@@ -281,6 +281,12 @@
     * [Paper (ICLR 2025)](https://arxiv.org/abs/2504.14345)
     * [Github](https://github.com/youngandbin/LLM-MVO-BLM)
 
+58. **MOMENT: A Family of Open Time-series Foundation Models**
+
+    * [Paper (ICML 2024)](https://arxiv.org/abs/2402.03885)
+    * [Github](https://github.com/moment-timeseries-foundation-model/moment)
+
+
 </details>
 
 ---
