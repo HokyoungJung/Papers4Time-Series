@@ -286,6 +286,15 @@
     * [Paper (ICML 2024)](https://arxiv.org/abs/2402.03885)
     * [Github](https://github.com/moment-timeseries-foundation-model/moment)
 
+59. **CMoS: Rethinking Time Series Prediction Through the Lens of Chunk-wise Spatial Correlations**
+
+    * [Paper (ICML 2025)](https://arxiv.org/abs/2505.19090)
+    * [Github](https://github.com/CSTCloudOps/CMoS)
+
+60. **CrossLinear: Plug-and-Play Cross-Correlation Embedding for Time Series Forecasting with Exogenous Variables**
+
+    * [Paper (KDD 2025)](https://arxiv.org/abs/2505.23116)
+    * [Github](https://github.com/mumiao2000/CrossLinear)
 
 </details>
 
