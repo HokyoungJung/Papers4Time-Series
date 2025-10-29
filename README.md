@@ -296,6 +296,21 @@
     * [Paper (KDD 2025)](https://arxiv.org/abs/2505.23116)
     * [Github](https://github.com/mumiao2000/CrossLinear)
 
+61. **CASA: CNN Autoencoder-based Score Attention for Efficient Multivariate Long-term Time-series Forecasting**
+
+    * [Paper (IJCAI 2025)](https://arxiv.org/abs/2505.02011)
+    * [Github](https://github.com/lmh9507/CASA)
+   
+62. **Temporal Query Network for Efficient Multivariate Time Series Forecasting**
+
+    *[Paper (ICML 2025)](https://arxiv.org/abs/2505.12917)
+    *[Github](https://github.com/ACAT-SCUT/TQNet)
+
+63. **ChronosX: Adapting Pretrained Time Series Models with Exogenous Variables**
+
+    *[Paper (AISTATS 2025)](https://arxiv.org/abs/2503.12107)
+    *[Github](https://github.com/amazon-science/chronos-forecasting/tree/chronosx)
+
 </details>
 
 ---
