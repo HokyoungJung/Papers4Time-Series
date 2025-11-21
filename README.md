@@ -311,6 +311,16 @@
     *[Paper (AISTATS 2025)](https://arxiv.org/abs/2503.12107)
     *[Github](https://github.com/amazon-science/chronos-forecasting/tree/chronosx)
 
+64. **An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling**
+
+    *[Paper (arXiv 2018)](https://arxiv.org/abs/1803.01271)
+    *[Github](https://github.com/locuslab/TCN)
+
+66. **Closed-form Continuous-time Neural Models**
+
+    *[Paper (Nat Mach Intell 2022)](https://arxiv.org/abs/2106.13898)
+    *[Github](https://github.com/raminmh/CfC)
+
 </details>
 
 ---
