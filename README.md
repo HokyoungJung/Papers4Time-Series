@@ -463,6 +463,15 @@
     * [Paper (arXiv 2025)](https://arxiv.org/abs/2506.07254)
     * [GitHub](https://github.com/kvfrans/splus)
 
+20. **Muon: An optimizer for hidden layers in neural networks**
+
+    * [Paper (blog 2024)](https://kellerjordan.github.io/posts/muon/)
+    * [GitHub](https://github.com/KellerJordan/Muon)
+
+21. **Muon is Scalable for LLM Training**
+
+    * [Paper (arXiv 2025)](https://arxiv.org/abs/2502.16982)
+    * [GitHub](https://github.com/MoonshotAI/Moonlight)
 
 </details>
 
