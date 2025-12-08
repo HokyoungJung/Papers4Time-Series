@@ -473,6 +473,47 @@
     * [Paper (arXiv 2025)](https://arxiv.org/abs/2502.16982)
     * [GitHub](https://github.com/MoonshotAI/Moonlight)
 
+22. **Decision Transformer: Reinforcement Learning via Sequence Modeling**
+
+    * [Paper (arXiv 2021)](https://arxiv.org/pdf/2106.01345)
+    * [GitHub](https://github.com/kzl/decision-transformer)
+
+24. **Future-Conditioned Recommendations with Multi-Objective Controllable Decision Transformer**
+
+    * [Paper (arXiv 2025)](https://arxiv.org/abs/2501.07212)
+   
+25. **Reinforcement Learning Based Dynamic Model Combination for Time Series Forecasting**
+
+    * [Paper (AAAI 2022)](https://ojs.aaai.org/index.php/AAAI/article/view/20618)
+
+26. **OneNet: Enhancing Time Series Forecasting Models under Concept Drift by Online Ensembling**
+
+    * [Paper (NeurIPS 2023)](https://arxiv.org/abs/2309.12659)
+    * [GitHub](https://github.com/yfzhang114/OneNet)
+   
+27. **Dynamic ensemble for probabilistic time-series forecasting via deep reinforcement learning**
+
+    * [Paper (KDD 2023)](https://www.amazon.science/publications/dynamic-ensemble-for-probabilistic-time-series-forecasting-via-deep-reinforcement-learning)
+
+28. **User Retention-oriented Recommendation with Decision Transformer**
+
+    * [Paper (WWW 2023)](https://arxiv.org/abs/2303.06347)
+    * [GitHub](https://github.com/kesenzhao/DT4Rec)
+
+29. **RecoMind: A Reinforcement Learning Framework for Optimizing In-Session User Satisfaction in Recommendation Systems**
+
+    * [Paper (Arxiv 2025)](https://arxiv.org/abs/2508.00201)
+
+30. **Choosing the Best of Both Worlds: Diverse and Novel Recommendations through Multi-Objective Reinforcement Learning**
+
+    * [Paper (WSDM 2022)](https://arxiv.org/abs/2110.15097)
+
+31. **Batch-Constrained Distributional Reinforcement Learning for Session-based Recommendation**
+
+    * [Paper (Workshop at NeurIPS 2020)](https://arxiv.org/abs/2012.08984)
+
+
+
 </details>
 
 ---
