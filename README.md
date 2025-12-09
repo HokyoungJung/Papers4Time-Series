@@ -321,6 +321,7 @@
     *[Paper (Nat Mach Intell 2022)](https://arxiv.org/abs/2106.13898)
     *[Github](https://github.com/raminmh/CfC)
 
+
 </details>
 
 ---
@@ -512,6 +513,10 @@
 
     * [Paper (Workshop at NeurIPS 2020)](https://arxiv.org/abs/2012.08984)
 
+32. **Addressing Concept Shift in Online Time Series Forecasting: Detect-then-Adapt**
+
+    * [Paper (arXiv 2024)](https://arxiv.org/abs/2403.14949)
+    * [GitHub](https://github.com/yfzhang114/OneNet)
 
 
 </details>
