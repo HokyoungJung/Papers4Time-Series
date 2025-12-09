@@ -580,7 +580,7 @@
 
     * Yudi Pawitan
 
-12. **FINDER: FINANCIAL DATASET FOR QUESTION ANSWERING AND EVALUATING RETRIEVAL-AUGMENTED GENERATION**
+12. **FinDER: Financial Dataset for Question Answering and Evaluating Retrieval-Augmented Generation**
 
     * [Paper (ICLR 2025 Workshop Advances in Financial AI)](https://arxiv.org/abs/2504.15800)
     * In this paper, "Notice for Readers. We’ve decided to use this dataset for an official evaluation in collaboration
