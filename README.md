@@ -274,53 +274,57 @@
 56. **ITFormer: Bridging Time Series and Natural Language for Multi-Modal QA with Large-Scale Multitask Dataset**
 
     * [Paper (ICML 2025)](https://arxiv.org/abs/2506.20093)
-    * [Github](https://github.com/Pandalin98/ITFormer-ICML25)
+    * [GitHub](https://github.com/Pandalin98/ITFormer-ICML25)
   
 57. **Integrating LLM-Generated Views into Mean-Variance Optimization Using the Black-Litterman Model**
 
     * [Paper (ICLR 2025)](https://arxiv.org/abs/2504.14345)
-    * [Github](https://github.com/youngandbin/LLM-MVO-BLM)
+    * [GitHub](https://github.com/youngandbin/LLM-MVO-BLM)
 
 58. **MOMENT: A Family of Open Time-series Foundation Models**
 
     * [Paper (ICML 2024)](https://arxiv.org/abs/2402.03885)
-    * [Github](https://github.com/moment-timeseries-foundation-model/moment)
+    * [GitHub](https://github.com/moment-timeseries-foundation-model/moment)
 
 59. **CMoS: Rethinking Time Series Prediction Through the Lens of Chunk-wise Spatial Correlations**
 
     * [Paper (ICML 2025)](https://arxiv.org/abs/2505.19090)
-    * [Github](https://github.com/CSTCloudOps/CMoS)
+    * [GitHub](https://github.com/CSTCloudOps/CMoS)
 
 60. **CrossLinear: Plug-and-Play Cross-Correlation Embedding for Time Series Forecasting with Exogenous Variables**
 
     * [Paper (KDD 2025)](https://arxiv.org/abs/2505.23116)
-    * [Github](https://github.com/mumiao2000/CrossLinear)
+    * [GitHub](https://github.com/mumiao2000/CrossLinear)
 
 61. **CASA: CNN Autoencoder-based Score Attention for Efficient Multivariate Long-term Time-series Forecasting**
 
     * [Paper (IJCAI 2025)](https://arxiv.org/abs/2505.02011)
-    * [Github](https://github.com/lmh9507/CASA)
+    * [GitHub](https://github.com/lmh9507/CASA)
    
 62. **Temporal Query Network for Efficient Multivariate Time Series Forecasting**
 
     *[Paper (ICML 2025)](https://arxiv.org/abs/2505.12917)
-    *[Github](https://github.com/ACAT-SCUT/TQNet)
+    *[GitHub](https://github.com/ACAT-SCUT/TQNet)
 
 63. **ChronosX: Adapting Pretrained Time Series Models with Exogenous Variables**
 
     *[Paper (AISTATS 2025)](https://arxiv.org/abs/2503.12107)
-    *[Github](https://github.com/amazon-science/chronos-forecasting/tree/chronosx)
+    *[GitHub](https://github.com/amazon-science/chronos-forecasting/tree/chronosx)
 
 64. **An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling**
 
     *[Paper (arXiv 2018)](https://arxiv.org/abs/1803.01271)
-    *[Github](https://github.com/locuslab/TCN)
+    *[GitHub](https://github.com/locuslab/TCN)
 
 66. **Closed-form Continuous-time Neural Models**
 
     *[Paper (Nat Mach Intell 2022)](https://arxiv.org/abs/2106.13898)
-    *[Github](https://github.com/raminmh/CfC)
+    *[GitHub](https://github.com/raminmh/CfC)
 
+67. **VisionTS: Visual Masked Autoencoders Are Free-Lunch Zero-Shot Time Series Forecasters**
+
+    *[Paper (ICML 2025)](https://arxiv.org/abs/2408.17253)
+    *[GitHub](https://github.com/Keytoyze/VisionTS)
 
 </details>
 
