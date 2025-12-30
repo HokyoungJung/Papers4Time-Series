@@ -326,6 +326,12 @@
     *[Paper (ICML 2025)](https://arxiv.org/abs/2408.17253)
     *[GitHub](https://github.com/Keytoyze/VisionTS)
 
+68. **VisionTS++: Cross-Modal Time Series Foundation Model with Continual Pre-trained Vision Backbones**
+
+    *[Paper (arXiv 2025)](https://arxiv.org/abs/2508.04379)
+    *[GitHub](https://github.com/Keytoyze/VisionTS)
+
+
 </details>
 
 ---
