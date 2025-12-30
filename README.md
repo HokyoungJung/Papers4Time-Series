@@ -303,33 +303,33 @@
    
 62. **Temporal Query Network for Efficient Multivariate Time Series Forecasting**
 
-    *[Paper (ICML 2025)](https://arxiv.org/abs/2505.12917)
-    *[GitHub](https://github.com/ACAT-SCUT/TQNet)
+    * [Paper (ICML 2025)](https://arxiv.org/abs/2505.12917)
+    * [GitHub](https://github.com/ACAT-SCUT/TQNet)
 
 63. **ChronosX: Adapting Pretrained Time Series Models with Exogenous Variables**
 
-    *[Paper (AISTATS 2025)](https://arxiv.org/abs/2503.12107)
-    *[GitHub](https://github.com/amazon-science/chronos-forecasting/tree/chronosx)
+    * [Paper (AISTATS 2025)](https://arxiv.org/abs/2503.12107)
+    * [GitHub](https://github.com/amazon-science/chronos-forecasting/tree/chronosx)
 
 64. **An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling**
 
-    *[Paper (arXiv 2018)](https://arxiv.org/abs/1803.01271)
-    *[GitHub](https://github.com/locuslab/TCN)
+    * [Paper (arXiv 2018)](https://arxiv.org/abs/1803.01271)
+    * [GitHub](https://github.com/locuslab/TCN)
 
 66. **Closed-form Continuous-time Neural Models**
 
-    *[Paper (Nat Mach Intell 2022)](https://arxiv.org/abs/2106.13898)
-    *[GitHub](https://github.com/raminmh/CfC)
+    * [Paper (Nat Mach Intell 2022)](https://arxiv.org/abs/2106.13898)
+    * [GitHub](https://github.com/raminmh/CfC)
 
 67. **VisionTS: Visual Masked Autoencoders Are Free-Lunch Zero-Shot Time Series Forecasters**
 
-    *[Paper (ICML 2025)](https://arxiv.org/abs/2408.17253)
-    *[GitHub](https://github.com/Keytoyze/VisionTS)
+    * [Paper (ICML 2025)](https://arxiv.org/abs/2408.17253)
+    * [GitHub](https://github.com/Keytoyze/VisionTS)
 
 68. **VisionTS++: Cross-Modal Time Series Foundation Model with Continual Pre-trained Vision Backbones**
 
-    *[Paper (arXiv 2025)](https://arxiv.org/abs/2508.04379)
-    *[GitHub](https://github.com/Keytoyze/VisionTS)
+    * [Paper (arXiv 2025)](https://arxiv.org/abs/2508.04379)
+    * [GitHub](https://github.com/Keytoyze/VisionTS)
 
 
 </details>
