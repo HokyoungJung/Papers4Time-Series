@@ -618,4 +618,8 @@ the meantime, please feel free to contact us at LinqAlpha (support@linqalpha.com
 
    * [Paper (Rheology Bulletin 2014)](https://www.rheology.org/sor/Publications/RheoBulletin/RB2014Jul.pdf)
 
+4. **The effect of whisky and wine consumption on total phenol content and antioxidant capacity of plasma from healthy volunteers**
+
+   * *Eur J Clin Nutr, 1998*
+
 </details>
