@@ -331,6 +331,34 @@
     * [Paper (arXiv 2025)](https://arxiv.org/abs/2508.04379)
     * [GitHub](https://github.com/Keytoyze/VisionTS)
 
+69. **CoFinDiff: Controllable Financial Diffusion Model for Time Series Generation**
+
+    * [Paper (IJICAI 2025)](https://arxiv.org/abs/2503.04164)
+      
+70. **On the Constrained Time-Series Generation Problem**
+
+    * [Paper (NeurIPS 2023)](https://proceedings.neurips.cc/paper_files/paper/2023/file/bfb6a69c0d9e2bc596e1cd31f16fcdde-Paper-Conference.pdf)
+
+71. **TRADES: Generating Realistic Market Simulations with Diffusion Models**
+
+    * [Paper (arXiv 2025)](https://arxiv.org/abs/2502.07071)
+    * [GitHub](https://github.com/LeonardoBerti00/DeepMarket)
+   
+72. **Chronos-2: From Univariate to Universal Forecasting**
+
+    * [Technical Report (arXiv 2025)](https://arxiv.org/pdf/2510.15821)
+    * [GitHub](https://github.com/amazon-science/chronos-forecasting)
+
+73. **TACTiS: Transformer-Attentional Copulas for Time Series**
+
+    * [Paper (ICML 2022)](https://arxiv.org/abs/2202.03528)
+    * [GitHub](https://github.com/servicenow/tactis)
+   
+74. **TACTiS-2: Better, Faster, Simpler Attentional Copulas for Multivariate Time Series**
+
+    * [Paper (ICLR 2024)](https://arxiv.org/abs/2310.01327)
+    * [GitHub](https://github.com/servicenow/tactis)
+
 
 </details>
 
@@ -527,6 +555,11 @@
 
     * [Paper (arXiv 2024)](https://arxiv.org/abs/2403.14949)
     * [GitHub](https://github.com/yfzhang114/OneNet)
+
+33. **Grounding World Simulation Models in a Real-World Metropolis**
+
+    * [Paper (CVPR 2026)](https://arxiv.org/abs/2603.15583)
+    * [GitHub io](https://seoul-world-model.github.io/#tldr)
 
 
 </details>
